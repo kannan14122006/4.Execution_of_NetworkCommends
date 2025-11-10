@@ -1,4 +1,4 @@
-# 4.Execution_of_NetworkCommands
+<img width="1168" height="816" alt="Screenshot 2025-11-10 154742" src="https://github.com/user-attachments/assets/d704e861-35e7-4770-959c-65407f54b25c" /># 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +27,13 @@ This commands includes
 <BR>
 
 ## Output
+<img width="1920" height="1200" alt="Screenshot 2025-11-10 154214" src="https://github.com/user-attachments/assets/d2c878f7-5c9a-4ee5-be24-8ba8cb54f424" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-10 154301" src="https://github.com/user-attachments/assets/86e01400-6f75-4014-98a8-f96d82591476" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-10 154327" src="https://github.com/user-attachments/assets/bcf1e515-afc8-4283-a8b0-53c6fc1aa294" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-10 154413" src="https://github.com/user-attachments/assets/bbf478d9-0f0f-40e9-810f-1caf6d6f078f" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-10 154449" src="https://github.com/user-attachments/assets/f869d57e-04dc-48e9-ae6c-d115968c82c4" />
+<img width="1168" height="816" alt="Screenshot 2025-11-10 154742" src="https://github.com/user-attachments/assets/8df6aa04-541c-42da-85ef-c46deee0c880" />
+
 
 ## Result
 Thus Execution of Network commands Performed 
